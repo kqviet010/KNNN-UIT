@@ -107,4 +107,6 @@ int TongMang(){
 	return kq;
 }
 
+Day la phan them vao 21/11
+
 
