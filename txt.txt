@@ -5,6 +5,8 @@ Con meo.
 		Ten
 		Tuoi
 		Mau long
+		Chung loai
+		Gia thanh
 		...
 	public:	
 		An()
