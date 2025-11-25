@@ -5,8 +5,8 @@ Con meo.
 		Ten
 		Tuoi
 		Mau long
-		Chung loai
-		Gia thanh
+		Chung loai 1, 2, 3
+		Gia thanh cong khai
 		...
 	public:	
 		An()
